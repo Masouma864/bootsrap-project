@@ -27,13 +27,11 @@ To get a local copy up and running follow these simple example steps.
 Prerequisites Setup Install Usage Run tests Deployment
 
 Authors
-Tanusri Ghosh
+Masouma Modarresi
 
-• GitHub: @chuaindia
+• GitHub: @masouma2020
 
-• Twitter: @chuaghosh25
 
-• LinkedIn: tanusri-ghosh-2a56b8
 
 Contributions
 Contributions, issues, and feature requests are welcome!
